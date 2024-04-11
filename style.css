@@ -1,0 +1,168 @@
+body {
+    /* background-color: aqua; */
+    margin: 0;
+    padding: 0;
+}
+
+.parallax {
+    background-image: url(https://miro.medium.com/v2/resize:fit:999/0*IpPuhvq5GoR0znBc.jpg);
+    min-width: 100%;
+    height: 100vh;
+    opacity: 1;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {}
+
+.test {
+    background-color: rgb(58, 57, 57);
+    padding: 40px;
+    font-size: 36px;
+    /* margin: 10px; */
+}
+
+.para {
+    font-family: "lato", sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+h3 {
+    font-family: "lato", sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.caption-1 {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    left: 0%;
+}
+
+.border {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    padding: 18px;
+    background-color: rgb(54, 51, 51);
+    /* border: 10px solid gray; */
+    font-family: "lato", sans-serif;
+}
+
+.bgimg-2 {
+    background-image: url(https://www.planetware.com/photos-large/IND/india-top-attractions-varanasi.jpg);
+    min-width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.caption-2 {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    left: 0%;
+}
+
+.border-2 {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    padding: 18px;
+    background-color: rgb(0, 0, 0);
+    font-family: "lato", sans-serif;
+}
+
+.test-2 {
+    background-color: rgb(58, 57, 57);
+    padding: 40px;
+    font-size: 36px;
+}
+
+.para-2 {
+    font-family: "lato", sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.bgimg-3 {
+    background-image: url(https://lh7-us.googleusercontent.com/OBCZyXzcE01JL_BZINushz4nm4lDNGNcl4-k-5PoxZ265trAes6zkgiTGP2adSJ7hyJN3CkkcnTu8f7f0GAI5PtwI34KXb18bL71_ZbWExKUUwMbnP237feFX-gTakT8WvYM1Zegma-3ykqWnklyIg);
+    min-width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.caption-3{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    left: 0%;
+}
+.border-3{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    padding: 18px;
+    background-color: rgb(0, 0, 0);
+    font-family: "lato", sans-serif;
+}
+.test-3{
+    background-color: rgb(58, 57, 57);
+    padding: 40px;
+    font-size: 36px;
+}
+.para-3{
+    font-family: "lato", sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.bgimg-4 {
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/906/145/desktop-wallpaper-indian-patriotism-quotes-quotesgram-indian-patriotic.jpg);
+    min-width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.caption-4{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    left: 0%;
+}
+.border-4{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    padding: 18px;
+    background-color: rgb(0, 0, 0);
+    font-family: "lato", sans-serif;
+}
+.small{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+   text-align: center;
+}
